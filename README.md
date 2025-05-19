@@ -4,6 +4,7 @@ This project demonstrates a data warehouse setup using PostgreSQL and Python. It
 ## Repository Structure
 ```
 /
+├── database/               # Contains the databse
 |-- sql/
 |   |-- queries.sql         # Contains all SQL queries for analysis
 |   |-- ddl.sql             # Contains all DDL statements for table creation
