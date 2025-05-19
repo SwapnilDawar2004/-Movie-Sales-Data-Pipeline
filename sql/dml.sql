@@ -1,3 +1,5 @@
+--(DML)data_manipulation_language
+
 --inserting in dimdate
 INSERT INTO dimDate(date_key,date,year,quarter,month,day,week,is_weekend)
 SELECT
