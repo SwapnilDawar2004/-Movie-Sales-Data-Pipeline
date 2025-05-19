@@ -1,4 +1,4 @@
-CREATE Table dimDate
+CREATE TABLE dimDate
 (
     date_key integer NOT NULL PRIMARY KEY,
 	date date NOT NULL,
