@@ -1,10 +1,10 @@
 ## Project Overview
-This project demonstrates a data warehouse setup using PostgreSQL. It includes ETL processing, data modeling, and analysis of movie sales data in a star schema structure.
+This project demonstrates a data warehouse setup using PostgreSQL. It includes ETL processing, data modeling, and analysis of movie sales data in a star schema structure and also implements some practices to extract insights such as total sales per film, top revenue-generating cities, and more.
 
 ## Repository Structure
 ```
 /
-├── database/               # Contains the databse
+├── database/               # Contains the sample database
 |-- sql/
 |   |-- queries.sql         # Contains all SQL queries for analysis
 |   |-- ddl.sql             # Contains all DDL statements for table creation
