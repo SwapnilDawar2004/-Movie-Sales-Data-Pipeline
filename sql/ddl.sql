@@ -1,3 +1,4 @@
+--(DDL)data_definition_language
 CREATE TABLE dimDate
 (
     date_key integer NOT NULL PRIMARY KEY,
