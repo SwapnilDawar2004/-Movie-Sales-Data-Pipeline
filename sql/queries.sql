@@ -1,3 +1,4 @@
+--SQL queries for Analysis
 -- How much sales we made from the particular film
 select p.payment_id, p.rental_id, p.amount,r.inventory_id,f.title  from payment as p
 JOIN rental r ON p.rental_id = r.rental_id
